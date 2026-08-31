@@ -4,7 +4,7 @@ Build a production-ready multi-agent quantitative analyst system where AI agents
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/-gemini_generated_image_ycs1qkycs1qkycs1-17823578e99a1c20b08bab75ce2f01ee.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/-gemini_generated_image_ycs1qkycs1qkycs1-17823578e99a1c20b08bab75ce2f01ee.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ Build a production-ready multi-agent quantitative analyst system where AI agents
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Project1_Architecture.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/Project1_Architecture.png"
        alt="System Architecture"
        width="600" />
 </p>
